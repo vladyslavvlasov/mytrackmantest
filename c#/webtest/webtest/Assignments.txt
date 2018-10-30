@@ -1,0 +1,29 @@
+﻿Introduction
+
+This is a basic framework for automating web based tests of mytrackman.com.
+The framework utilizes the selenium basic testing framework for C#, using
+The Framework consists of;
+
+    * A Helper class with some predefined graphical elements
+    * URLs class that contains predefined urls
+    * Users class that contains some predefined users
+    * The Interact utility class that contains a collection of useful methods for interacting with the webpage
+
+prerequsites
+
+* Chrome webbrowser
+* The chromedriver.exe (https://chromedriver.storage.googleapis.com/index.html?path=2.43/) must reside in c:\chromedriver\
+
+
+Tasks
+
+1) Go to the main Test.cs class - put some words on how the elements of the framework is connected
+
+2) Complete the SuccessfullLogin() test. The test should log into the mytrackman.com webpage
+
+3) Write at least 3 different tests that validate unsucessful logins attempts
+
+4) Write a test that
+    a) Does a login using the default user
+    b) Clicks the Combine menu option
+    c) Assert that theres actually 50 players in the top 50 list

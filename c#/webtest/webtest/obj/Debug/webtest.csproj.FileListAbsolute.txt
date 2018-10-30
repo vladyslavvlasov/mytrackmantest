@@ -1,0 +1,14 @@
+/Users/jesper/Projects/webtest/webtest/bin/Debug/webtest.dll
+/Users/jesper/Projects/webtest/webtest/bin/Debug/webtest.pdb
+/Users/jesper/Projects/webtest/webtest/bin/Debug/Ionic.Zip.dll
+/Users/jesper/Projects/webtest/webtest/bin/Debug/Newtonsoft.Json.dll
+/Users/jesper/Projects/webtest/webtest/bin/Debug/nunit.framework.dll
+/Users/jesper/Projects/webtest/webtest/bin/Debug/WebDriver.dll
+/Users/jesper/Projects/webtest/webtest/bin/Debug/WebDriver.Support.dll
+/Users/jesper/Projects/webtest/webtest/bin/Debug/nunit.framework.xml
+/Users/jesper/Projects/webtest/webtest/bin/Debug/WebDriver.xml
+/Users/jesper/Projects/webtest/webtest/bin/Debug/WebDriver.Support.xml
+/Users/jesper/Projects/webtest/webtest/obj/Debug/webtest.csproj.CoreCompileInputs.cache
+/Users/jesper/Projects/webtest/webtest/obj/Debug/webtest.dll
+/Users/jesper/Projects/webtest/webtest/obj/Debug/webtest.pdb
+/Users/jesper/Projects/webtest/webtest/obj/Debug/webtest.csprojResolveAssemblyReference.cache

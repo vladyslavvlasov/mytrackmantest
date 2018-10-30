@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webtest", "webtest\webtest.csproj", "{FFE7578A-0773-4336-8C66-89F8302ED5B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE7578A-0773-4336-8C66-89F8302ED5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE7578A-0773-4336-8C66-89F8302ED5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE7578A-0773-4336-8C66-89F8302ED5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE7578A-0773-4336-8C66-89F8302ED5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

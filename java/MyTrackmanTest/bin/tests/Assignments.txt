@@ -1,0 +1,42 @@
+This is a basic framework for automating web based tests of mytrackman.com.
+
+The framework utilizes the selenium basic testing framework for JAVA.
+
+The Framework consists of;
+
+
+
+	* A framework class that sets up the basic framework
+
+	* A run configuration class that configures the framework to run with a specific operating system and browser
+
+  	* Helper classes with some predefined graphical elements (one for the loginscreen and one for the mainscreen)
+
+	* Users class that contains some predefined users
+
+  	* The util class that has some basic methods for finding elements on a page
+
+Requsites
+
+	* the Chromedriver.exe application must be placed in c:\chromedriver (or RunConfigurations class must be updated)
+	* TestNG binary must be installed
+	* Java JRE8 required
+
+
+Tasks
+
+
+
+1) Go to the BasicTest.java class - put some words on how the elements of the framework is connected
+
+2) Complete the SuccessfulLogin() test. The test should log into the mytrackman.com webpage
+
+3) Write at least 3 different tests that validate unsuccessful logins attempts
+
+4) Write a test that
+
+  a) Does a login using the default user
+
+  b) Clicks the Combine menu option
+
+  c) Asserts that there's actually 50 players in the top 50 list
