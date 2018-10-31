@@ -42,6 +42,18 @@ public class Util {
 		return false;
 	}
 
+	public boolean isElementDisplayed (WebDriver driver, By selector)
+	{
+		if(driver.findElements(selector).size()>0) {
+			return driver.findElement(selector).isDisplayed();
+		}
+		return false;
+
+	}
+
+
+
+
 	private void sleep(long millis)
 	{
 		try {
